@@ -1,5 +1,5 @@
 
-const darkTheme = "dark.css";
+const darkTheme = "style.css";
 const themeIcon = document.getElementById("theme-icon");
 const res = document.getElementById("result");
 const toast = document.getElementById("toast");
